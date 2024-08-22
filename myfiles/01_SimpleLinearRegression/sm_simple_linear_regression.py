@@ -7,7 +7,7 @@ import pandas as pd
 
 # Importing the dataset
 #dataset = pd.read_csv('Salary_Data.csv')        # only numerical values there 
-dataset = pd.read_csv('employee_data.csv')      # we need to transform categorical data here
+dataset = pd.read_csv('../../datasets/employee_data.csv')      # we need to transform categorical data here
 
 # Depending on dataset maybe we need to get rid of categorical data
 
